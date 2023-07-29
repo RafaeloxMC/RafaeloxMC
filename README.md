@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java**
 
-- 📫 How to reach me **Discord: Rаfа#2804**
+- 📫 How to reach me **Discord: @xvcf**
 
 - ⚡ Fun fact **Venus is the only planet to spin clockwise.**
 

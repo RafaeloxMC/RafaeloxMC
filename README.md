@@ -1,7 +1,10 @@
 <h1 align="center" style="font-weight:bold">@xvcf | Rafa</h1>
 <h3 align="center">Looks like you found a ReadMe.md 😮</h3><br>
 
-<img align="center" src="https://i.giphy.com/media/1zgzISaYrnMAYRJJEr/giphy.webp" alt="Banner"/>
+<div align="center">
+  <img src="https://i.giphy.com/media/1zgzISaYrnMAYRJJEr/giphy.webp" alt="Banner"/>
+</div>
+
 <h3 align="center" style="font-weight:bold;color:white;">
     <img align="center" src="https://komarev.com/ghpvc/?username=rafaeloxmc&label=Profile%20views&color=993399&style=flat" alt="Profile Views" />
 </h3>

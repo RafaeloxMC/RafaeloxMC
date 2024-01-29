@@ -35,5 +35,5 @@ xvcf()
 </h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rafaeloxmc&show_icons=true&line_height=27&count_private=true&&theme=dark" alt="Rafa's GitHub Statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=RafaeloxMC&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Rafa's GitHub Statistics" />
 </p>

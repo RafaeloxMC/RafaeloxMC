@@ -26,7 +26,7 @@ xvcf()
     Bad account commits:
 </h3>
 <h3 align="center" style="font-weight:bold;color:white;">
-    <img src="https://raw.githubusercontent.com/RafaeloxMC/RafaeloxMC/3f5eccfd6f17f282021c58d3cf29f6163f6b9727/github-user-contribution.svg">
+    <img src="https://raw.githubusercontent.com/RafaeloxMC/RafaeloxMC/main/github-user-contribution.svg">
 
 </h3>
 

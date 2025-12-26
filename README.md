@@ -27,7 +27,3 @@
 <h3 align="center" style="font-weight:bold;color:white;">
     Statistics
 </h3>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=RafaeloxMC&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Rafa's GitHub Statistics" />
-</p>

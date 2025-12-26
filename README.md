@@ -23,7 +23,3 @@
     <img src="https://raw.githubusercontent.com/RafaeloxMC/RafaeloxMC/main/github-user-contribution.svg">
 
 </h3>
-
-<h3 align="center" style="font-weight:bold;color:white;">
-    Statistics
-</h3>
